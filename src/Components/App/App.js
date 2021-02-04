@@ -1,7 +1,11 @@
+// Pages:
+import { Homepage } from '../../Pages';
+// Components:
+
 function App() {
   return (
     <div className='App'>
-      <h1>Kampai Design</h1>
+      <Homepage></Homepage>
     </div>
   );
 }
